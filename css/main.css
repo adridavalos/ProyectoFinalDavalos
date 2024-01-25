@@ -1,0 +1,14 @@
+.encabezado{
+    border-top: 10px solid rgb(83, 93, 241);
+}
+form{
+    background-color: rgb(208, 207, 207);
+    border-radius: 5px ;
+}
+.error {
+    border: 2px solid red;
+}
+.mayuscula{
+    text-transform: uppercase;
+    color: rgb(66, 65, 65);
+}
